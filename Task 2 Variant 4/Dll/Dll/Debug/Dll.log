@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Dll.cpp
+E:\visual studi\Task 2\Dll\Dll\Dll.cpp(6,1): warning C4273: Count1: несовместимое связывание dll
+E:\visual studi\Task 2\Dll\Dll\Dll.h(9,32): message : см. предыдущее определение "Count1"
+E:\visual studi\Task 2\Dll\Dll\Dll.cpp(25,1): warning C4273: Count2: несовместимое связывание dll
+E:\visual studi\Task 2\Dll\Dll\Dll.h(10,32): message : см. предыдущее определение "Count2"
+  Создание кода...
+     Создается библиотека E:\visual studi\Task 2\Dll\Debug\Dll.lib и объект E:\visual studi\Task 2\Dll\Debug\Dll.exp
+  Dll.vcxproj -> E:\visual studi\Task 2\Dll\Debug\Dll.dll
